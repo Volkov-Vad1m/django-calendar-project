@@ -1,0 +1,66 @@
+# Python
+*.py[cod]
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.sql
+*.sqlite3
+*.db
+*.mo
+*.pyproj
+*.project
+.Python
+
+# Django
+.DS_Store
+local_settings.py
+db.sqlite3
+
+# Django Migrations
+*/migrations/*
+*/migrations/__pycache__/
+
+# Environment variables
+.env
+.env.*
+
+# Virtualenv
+venv/
+ENV/
+env/
+bin/
+lib/
+include/
+local/
+
+# macOS
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+*_thumb.*
+
+# Other
+*.env
+*.swp
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# JetBrains
+.idea
+*.iml
